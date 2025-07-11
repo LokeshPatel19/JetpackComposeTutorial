@@ -20,11 +20,14 @@ class MainActivity : ComponentActivity() {
         setContent {
             JetpackYoutubeTheme {
 //                Basic()
-                TextColumn()
-                TextRow()
-                BoxFunction()
-                SurfaceFunction()
-                CardFunction()
+//                TextColumn()
+//                TextRow()
+//                BoxFunction()
+//                SurfaceFunction()
+//                CardFunction()
+//                ImageComposable()
+                IconComposable()
+
             }
         }
     }
