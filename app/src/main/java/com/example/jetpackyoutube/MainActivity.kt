@@ -19,7 +19,12 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             JetpackYoutubeTheme {
-
+//                Basic()
+                TextColumn()
+                TextRow()
+                BoxFunction()
+                SurfaceFunction()
+                CardFunction()
             }
         }
     }
