@@ -27,7 +27,8 @@ class MainActivity : ComponentActivity() {
 //                CardFunction()
 //                ImageComposable()
 //                IconComposable()
-                TextFieldCompose()
+//                TextFieldCompose()
+                Chips()
             }
         }
     }
